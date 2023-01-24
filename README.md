@@ -12,4 +12,6 @@ When opening the project:
 
 Thank You
 
-Edit: Some files in this repsoitory are missing due to them being hidden. Please use this drive link to download the entire project and open it in Unity Hub adter extraction.
+Edit: Some files in this repsoitory are missing due to them being hidden. Please use this drive link to download the entire project and open it in Unity Hub after extraction.
+
+https://drive.google.com/file/d/1uUQgoXh_dTN_iiQbri4_fYLfInxQ0En5/view?usp=sharing
