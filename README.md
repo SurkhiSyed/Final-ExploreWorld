@@ -11,3 +11,5 @@ When opening the project:
 6. Select "ExploreWorld" as the project to open in the Unity Hub
 
 Thank You
+
+Edit: Some files in this repsoitory are missing due to them being hidden. Please use this drive link to download the entire project and open it in Unity Hub adter extraction.
