@@ -4,8 +4,7 @@ This game was created using the Unity Game Engine, and involves controlling a ca
 
 Overall, this project is a world exploration game that includes real world physics to control objects such as vehicles in a fun and interesting way.
 
-<img width="400" alt="UnityGame1" src="https://user-images.githubusercontent.com/86132908/216204924-7b5c965d-8d89-481c-8dba-848c1814f03b.PNG">
-<img width="400" alt="UnityGame2" src="https://user-images.githubusercontent.com/86132908/216208081-e9ecbf8f-ce0b-4ec9-98b4-327541bc7e32.PNG">
+<img width="400" alt="UnityGame1" src="https://user-images.githubusercontent.com/86132908/216204924-7b5c965d-8d89-481c-8dba-848c1814f03b.PNG"><img width="400" alt="UnityGame2" src="https://user-images.githubusercontent.com/86132908/216208081-e9ecbf8f-ce0b-4ec9-98b4-327541bc7e32.PNG">
 
 Please note that this is an unreleased work. 
 This project is a game created using Unity engine and consists of many openly liscensed packages from the Unity Asset Store.
